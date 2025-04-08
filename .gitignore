@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dss740_ml_env/
 
 # Spyder project settings
 .spyderproject
